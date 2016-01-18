@@ -1,0 +1,8 @@
+S3method(plot,BDA)
+S3method(print,BDA)
+S3method(summary,BDA)
+export(BDA)
+import(stats)
+import(graphics)
+import(zoo)
+import(xts)
